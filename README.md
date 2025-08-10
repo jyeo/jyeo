@@ -1,7 +1,6 @@
 - 👋 I’m Jasper Yeo, an amateur applied mathematics student.
-- 👀 Notable interests: amateur approach to TensorFlow [using foundations in JAVA, Python, and C++]
-- 🌱 Current Academic Pursuits: JAVA[intermediate], Python[introductory], and C++[introductory].
-- 📫 Contact Info: [Github] @jyeo; work email @ jcy.cloudware@gmail.com  
+- 👀 Notable interests: doing part-time work to collect math textbooks
+- Future Projects: Further Python practice towards Tensorflow or indie projects post-foundational education.
 
 <!---
 jyeo/jyeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
