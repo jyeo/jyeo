@@ -1,6 +1,7 @@
 - 👋 I’m Jasper Yeo, an amateur applied mathematics student.
 - 👀 Notable interests: doing part-time work to collect math textbooks
 - Future Projects: Further Python practice towards Tensorflow or indie projects post-foundational education.
+- Ongoing hobbies: long term blue-chip equity trading, Kakuro puzzles, yoga + Pilates, and viewing worldwide events from an interdisciplinary perspective.
 
 <!---
 jyeo/jyeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
